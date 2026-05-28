@@ -18,38 +18,43 @@
         <span>Titanus Group</span>
       </a>
       <nav class="nav" aria-label="Main navigation">
-        <a href="#audit">Аудит</a>
-        <a href="#services">Услуги</a>
-        <a href="#process">Подход</a>
-        <a href="#tech">Технологии</a>
-        <a href="#contact">Контакт</a>
+        <a href="#audit" data-i18n="nav.audit">Аудит</a>
+        <a href="#services" data-i18n="nav.services">Услуги</a>
+        <a href="#process" data-i18n="nav.process">Подход</a>
+        <a href="#tech" data-i18n="nav.tech">Технологии</a>
+        <a href="#contact" data-i18n="nav.contact">Контакт</a>
       </nav>
+      <div class="language-switcher" aria-label="Language selector">
+        <button type="button" data-lang="ru" aria-pressed="true">RU</button>
+        <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        <button type="button" data-lang="pl" aria-pressed="false">PL</button>
+      </div>
     </header>
 
     <main id="top">
       <section class="hero">
         <div class="hero-media" aria-hidden="true"></div>
         <div class="hero-content">
-          <p class="eyebrow">Restaurant operations • Digital growth • Business systems</p>
+          <p class="eyebrow" data-i18n="hero.eyebrow">Restaurant operations • Digital growth • Business systems</p>
           <h1>Titanus Group</h1>
-          <p class="hero-copy">
+          <p class="hero-copy" data-i18n="hero.copy">
             Экономим владельцам бизнеса самое ценное — время. Находим слабые места,
             убираем хаос и строим систему роста через аналитику, аудит, продвижение,
             операции и технологии.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#audit">Начать с аудита</a>
-            <a class="button secondary" href="#services">Посмотреть услуги</a>
+            <a class="button primary" href="#audit" data-i18n="hero.primary">Начать с аудита</a>
+            <a class="button secondary" href="#services" data-i18n="hero.secondary">Посмотреть услуги</a>
           </div>
         </div>
       </section>
 
       <section class="intro band">
         <div class="section-heading">
-          <p class="eyebrow">Mission</p>
-          <h2>Строим бизнес, который работает устойчиво изнутри и растёт снаружи.</h2>
+          <p class="eyebrow" data-i18n="mission.eyebrow">Mission</p>
+          <h2 data-i18n="mission.title">Строим бизнес, который работает устойчиво изнутри и растёт снаружи.</h2>
         </div>
-        <p>
+        <p data-i18n="mission.copy">
           Titanus Group берёт проект с любой точки развития: от идеи и первых продаж
           до работающего ресторана или малого бизнеса, которому нужны порядок, масштаб
           и понятный рост. Мы находим слабые места, усиливаем маркетинг, выстраиваем
@@ -61,26 +66,26 @@
 
       <section class="time-value">
         <div class="section-heading">
-          <p class="eyebrow">Time is the premium asset</p>
-          <h2>Мы продаём не советы. Мы возвращаем владельцу время.</h2>
+          <p class="eyebrow" data-i18n="time.eyebrow">Time is the premium asset</p>
+          <h2 data-i18n="time.title">Мы продаём не советы. Мы возвращаем владельцу время.</h2>
         </div>
         <div class="value-grid">
           <article>
-            <h3>Меньше проб и ошибок</h3>
-            <p>
+            <h3 data-i18n="time.card1.title">Меньше проб и ошибок</h3>
+            <p data-i18n="time.card1.copy">
               Помогаем не тратить месяцы на случайных подрядчиков, хаотичные решения
               и действия без цифр.
             </p>
           </article>
           <article>
-            <h3>Быстрее ясные решения</h3>
-            <p>
+            <h3 data-i18n="time.card2.title">Быстрее ясные решения</h3>
+            <p data-i18n="time.card2.copy">
               Показываем, где бизнес теряет деньги, клиентов, скорость и управляемость.
             </p>
           </article>
           <article>
-            <h3>Система вместо ручного контроля</h3>
-            <p>
+            <h3 data-i18n="time.card3.title">Система вместо ручного контроля</h3>
+            <p data-i18n="time.card3.copy">
               Настраиваем процессы, инструменты и ритм управления, чтобы бизнес не
               держался только на владельце.
             </p>
@@ -90,62 +95,62 @@
 
       <section class="audit band" id="audit">
         <div class="audit-copy">
-          <p class="eyebrow">First product</p>
+          <p class="eyebrow" data-i18n="audit.eyebrow">First product</p>
           <h2>Titanus Business Audit</h2>
-          <p>
+          <p data-i18n="audit.copy">
             Начинаем не с догадок, а с диагностики. За короткий цикл разбираем бизнес
             как систему: продажи, маркетинг, сайт, соцсети, кухню или операционные
             процессы, персонал, поставщиков, цифры и технологии.
           </p>
         </div>
         <div class="audit-card">
-          <span class="tag">7–14 дней</span>
-          <h3>На выходе владелец получает</h3>
+          <span class="tag" data-i18n="audit.tag">7–14 дней</span>
+          <h3 data-i18n="audit.resultTitle">На выходе владелец получает</h3>
           <ul>
-            <li>карту текущей точки А;</li>
-            <li>главные потери времени и денег;</li>
-            <li>точки быстрого роста;</li>
-            <li>план действий на 30 / 60 / 90 дней;</li>
-            <li>понимание, что делать самому, что делегировать и что автоматизировать.</li>
+            <li data-i18n="audit.item1">карту текущей точки А;</li>
+            <li data-i18n="audit.item2">главные потери времени и денег;</li>
+            <li data-i18n="audit.item3">точки быстрого роста;</li>
+            <li data-i18n="audit.item4">план действий на 30 / 60 / 90 дней;</li>
+            <li data-i18n="audit.item5">понимание, что делать самому, что делегировать и что автоматизировать.</li>
           </ul>
-          <a class="button primary" href="#contact">Запросить аудит</a>
+          <a class="button primary" href="#contact" data-i18n="audit.cta">Запросить аудит</a>
         </div>
       </section>
 
       <section class="services" id="services">
         <div class="section-heading">
-          <p class="eyebrow">Full coverage</p>
-          <h2>Полный охват услуг для ресторанов и малого бизнеса</h2>
+          <p class="eyebrow" data-i18n="services.eyebrow">Full coverage</p>
+          <h2 data-i18n="services.title">Полный охват услуг для ресторанов и малого бизнеса</h2>
         </div>
         <div class="service-grid">
           <article>
             <span class="number">01</span>
-            <h3>Аналитика и аудит</h3>
-            <p>
+            <h3 data-i18n="services.card1.title">Аналитика и аудит</h3>
+            <p data-i18n="services.card1.copy">
               Проверяем финансы, продажи, меню, процессы, маркетинг, команду и точки
               потерь. Даём ясную картину: что мешает зарабатывать и где рост быстрее всего.
             </p>
           </article>
           <article>
             <span class="number">02</span>
-            <h3>SEO, сайты и соцсети</h3>
-            <p>
+            <h3 data-i18n="services.card2.title">SEO, сайты и соцсети</h3>
+            <p data-i18n="services.card2.copy">
               Создаём сайт, усиливаем видимость в поиске, упаковываем бренд, ведём
               социальные сети и строим поток клиентов через цифровые каналы.
             </p>
           </article>
           <article>
             <span class="number">03</span>
-            <h3>Ресторанные процессы</h3>
-            <p>
+            <h3 data-i18n="services.card3.title">Ресторанные процессы</h3>
+            <p data-i18n="services.card3.copy">
               Налаживаем кухню, персонал, поставщиков, стандарты, закупки, учёт,
               скорость сервиса и ежедневную операционную дисциплину.
             </p>
           </article>
           <article>
             <span class="number">04</span>
-            <h3>Технологии под клиента</h3>
-            <p>
+            <h3 data-i18n="services.card4.title">Технологии под клиента</h3>
+            <p data-i18n="services.card4.copy">
               Разрабатываем CRM, приложения, системы учёта, инструменты для бухгалтерии,
               складов, заказов, персонала и управленческой отчётности.
             </p>
@@ -155,30 +160,30 @@
 
       <section class="consulting-model">
         <div class="section-heading">
-          <p class="eyebrow">Consulting model</p>
-          <h2>Правильный консалтинг — это маршрут от точки А к точке Б.</h2>
+          <p class="eyebrow" data-i18n="model.eyebrow">Consulting model</p>
+          <h2 data-i18n="model.title">Правильный консалтинг — это маршрут от точки А к точке Б.</h2>
         </div>
         <div class="model-grid">
           <article>
             <span class="number">A</span>
-            <h3>Где бизнес сейчас</h3>
-            <p>
+            <h3 data-i18n="model.card1.title">Где бизнес сейчас</h3>
+            <p data-i18n="model.card1.copy">
               Фиксируем факты: цифры, процессы, клиентский путь, команду, маркетинг,
               владельческую нагрузку и реальные ограничения.
             </p>
           </article>
           <article>
             <span class="number">B</span>
-            <h3>Куда бизнес должен прийти</h3>
-            <p>
+            <h3 data-i18n="model.card2.title">Куда бизнес должен прийти</h3>
+            <p data-i18n="model.card2.copy">
               Определяем понятную цель: рост выручки, прибыльность, порядок,
               автоматизация, сильная команда или масштабирование.
             </p>
           </article>
           <article>
             <span class="number">→</span>
-            <h3>Как туда дойти</h3>
-            <p>
+            <h3 data-i18n="model.card3.title">Как туда дойти</h3>
+            <p data-i18n="model.card3.copy">
               Строим маршрут внедрения. Titanus Group приносит метод, опыт и
               исполнение; владелец участвует в ключевых решениях.
             </p>
@@ -194,47 +199,47 @@
           />
         </div>
         <div class="split-copy">
-          <p class="eyebrow">How we work</p>
-          <h2>От диагностики до внедрения</h2>
+          <p class="eyebrow" data-i18n="process.eyebrow">How we work</p>
+          <h2 data-i18n="process.title">От диагностики до внедрения</h2>
           <ul class="steps">
-            <li><strong>Смотрим на бизнес целиком.</strong> Продажи, продукт, команда, кухня, маркетинг, финансы и технологии.</li>
-            <li><strong>Выделяем приоритеты.</strong> Что даёт быстрый эффект, что требует системной перестройки, что мешает масштабу.</li>
-            <li><strong>Внедряем руками.</strong> Не ограничиваемся советами: помогаем настроить процессы, инструменты и контроль.</li>
-            <li><strong>Оставляем систему.</strong> Клиент получает не разовую услугу, а понятную модель управления и роста.</li>
+            <li data-i18n-html="process.step1"><strong>Смотрим на бизнес целиком.</strong> Продажи, продукт, команда, кухня, маркетинг, финансы и технологии.</li>
+            <li data-i18n-html="process.step2"><strong>Выделяем приоритеты.</strong> Что даёт быстрый эффект, что требует системной перестройки, что мешает масштабу.</li>
+            <li data-i18n-html="process.step3"><strong>Внедряем руками.</strong> Не ограничиваемся советами: помогаем настроить процессы, инструменты и контроль.</li>
+            <li data-i18n-html="process.step4"><strong>Оставляем систему.</strong> Клиент получает не разовую услугу, а понятную модель управления и роста.</li>
           </ul>
         </div>
       </section>
 
       <section class="technology" id="tech">
         <div class="section-heading">
-          <p class="eyebrow">Technology</p>
-          <h2>Любой каприз клиента превращаем в рабочий инструмент</h2>
+          <p class="eyebrow" data-i18n="tech.eyebrow">Technology</p>
+          <h2 data-i18n="tech.title">Любой каприз клиента превращаем в рабочий инструмент</h2>
         </div>
         <div class="tech-layout">
           <div class="tech-copy">
-            <p>
+            <p data-i18n="tech.copy1">
               Если стандартных решений недостаточно, Titanus Group создаёт индивидуальные
               цифровые продукты: от сайта и CRM до приложения для учёта продаж, склада,
               бухгалтерии, поставщиков, сотрудников и ежедневной отчётности.
             </p>
-            <p>
+            <p data-i18n="tech.copy2">
               Главный принцип простой: технология должна экономить время владельца,
               давать прозрачные цифры и помогать команде работать точнее.
             </p>
           </div>
           <div class="metrics" aria-label="Titanus Group focus areas">
-            <div><strong>360°</strong><span>обзор бизнеса</span></div>
-            <div><strong>End-to-end</strong><span>от стратегии до внедрения</span></div>
-            <div><strong>Custom</strong><span>решения под процесс клиента</span></div>
+            <div><strong>360°</strong><span data-i18n="tech.metric1">обзор бизнеса</span></div>
+            <div><strong>End-to-end</strong><span data-i18n="tech.metric2">от стратегии до внедрения</span></div>
+            <div><strong>Custom</strong><span data-i18n="tech.metric3">решения под процесс клиента</span></div>
           </div>
         </div>
       </section>
 
       <section class="contact band" id="contact">
         <div>
-          <p class="eyebrow">Start</p>
-          <h2>Готовы усилить ресторан или малый бизнес?</h2>
-          <p>
+          <p class="eyebrow" data-i18n="contact.eyebrow">Start</p>
+          <h2 data-i18n="contact.title">Готовы усилить ресторан или малый бизнес?</h2>
+          <p data-i18n="contact.copy">
             Напишите Titanus Group, если нужно найти точки роста, навести порядок
             в процессах, усилить продвижение или создать технологическое решение под вашу задачу.
           </p>
@@ -247,5 +252,6 @@
       <span>© 2026 Titanus Group</span>
       <span>Strategy • Operations • Technology</span>
     </footer>
+    <script src="./translations.js"></script>
   </body>
 </html>
