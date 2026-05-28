@@ -300,13 +300,124 @@ We do not promise magic.
 
 We promise disciplined thinking, honest diagnosis, strong execution, and a business-first approach.
 
-## 10. Short Public Description
+## 10. Sales Strategy for Consulting
+
+Consulting is not sold like a simple product. The client cannot touch it before buying it, so Titanus Group must sell clarity, trust, time saved, risk reduced, and a believable path from the current situation to a better future state.
+
+### 10.1 Ideal Client
+
+The strongest client is an owner or decision-maker who already understands that expert help can save time and prevent costly mistakes.
+
+Look for clients who:
+
+- Own or control the business decision
+- Know their time is valuable
+- Already delegate some work
+- Have paid for experts before
+- Are ready to participate in the process
+- Want business improvement, not just cheap information
+- Have a real problem with measurable cost
+
+Avoid clients who:
+
+- Always blame previous experts
+- Want a guaranteed result without their own participation
+- Only want free advice
+- Want to collect information but never implement
+- Try to transfer all responsibility for their business to the consultant
+
+### 10.2 Qualification Questions
+
+Before selling a large project, ask:
+
+- Have you worked with consultants, agencies, developers, or business advisors before?
+- What worked well?
+- What did not work?
+- Who will make the final decision?
+- What is the cost of leaving this problem unresolved for 3, 6, or 12 months?
+- How much time do you personally spend on this problem every week?
+- Are you ready to be involved in decisions and implementation?
+- What would make this project a clear success for you?
+
+These questions protect Titanus Group from weak-fit clients and help the client understand the real value of the work.
+
+### 10.3 Sell the Bridge From Point A to Point B
+
+Every consulting offer must define:
+
+- Point A: where the business is now
+- Point B: where the business should be
+- The gap: what blocks progress
+- The cost of the gap: money, time, stress, lost clients, lost reputation
+- The route: what Titanus Group will diagnose, design, implement, and measure
+
+Examples of Point A:
+
+- Low visibility online
+- Unclear numbers
+- Chaotic kitchen processes
+- Weak staff standards
+- Poor supplier structure
+- Owner doing everything manually
+- No CRM or reporting
+- Website that does not convert
+
+Examples of Point B:
+
+- Clear growth plan
+- Stronger customer flow
+- Better processes
+- Better staff rhythm
+- Better reporting
+- Technology that saves time
+- Owner has control without being trapped in daily chaos
+
+### 10.4 Transform the Client's Request
+
+The first request is often not the real problem.
+
+Examples:
+
+- The client asks for social media, but the real issue is weak positioning.
+- The client asks for a website, but the real issue is unclear offer and no customer path.
+- The client asks for more staff, but the real issue is poor process design.
+- The client asks for an app, but the real issue is lack of reporting discipline.
+- The client asks for more sales, but the real issue is margin, product, service, or reputation.
+
+Titanus Group must respectfully show the deeper problem. This is where consulting value begins.
+
+### 10.5 Four Client Choices
+
+After diagnosis, the client usually has four choices:
+
+1. Keep everything as it is.
+2. Try to fix everything alone.
+3. Ask someone to do everything while the owner avoids participation.
+4. Work together with Titanus Group as an expert partner.
+
+The best path is the fourth. Consulting works when the expert brings method, experience, technology, and execution, while the owner brings access, decisions, context, and commitment.
+
+### 10.6 Sales Rule
+
+Titanus Group should not sell consulting as a passive service where the client can disappear and expect magic.
+
+The correct message:
+
+> We will save you time, reduce mistakes, show the real problems, build the route, and help implement the solution. But the strongest results happen when we work with the owner, not instead of the owner.
+
+### 10.7 Payment Principle
+
+For serious consulting, avoid unclear payment terms and vague success-only promises.
+
+Use paid diagnostics, upfront payment, staged payments, or clearly defined retainers. Free advice should be limited and used only to prove thinking quality, not to solve the whole problem before a contract exists.
+
+## 11. Short Public Description
 
 Titanus Group is a strategic consulting and implementation company helping restaurants, small businesses, and entrepreneurs grow through audit, analytics, operations, digital promotion, technology, and business systems.
 
 We help owners save time, find weak points, build stronger processes, improve marketing, use technology, and turn ideas into scalable business structures.
 
-## 11. Recommended Reading List
+## 12. Recommended Reading List
 
 ### Strategy and Consulting
 
