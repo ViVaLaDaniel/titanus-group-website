@@ -1,70 +1,4 @@
 const translations = {
-  ru: {
-    "nav.audit": "Аудит",
-    "nav.services": "Услуги",
-    "nav.process": "Подход",
-    "nav.tech": "Технологии",
-    "nav.contact": "Контакт",
-    "hero.eyebrow": "Restaurant operations • Digital growth • Business systems",
-    "hero.copy": "Экономим владельцам бизнеса самое ценное - время. Находим слабые места, убираем хаос и строим систему роста через аналитику, аудит, продвижение, операции и технологии.",
-    "hero.primary": "Начать с аудита",
-    "hero.secondary": "Посмотреть услуги",
-    "mission.eyebrow": "Mission",
-    "mission.title": "Строим бизнес, который работает устойчиво изнутри и растёт снаружи.",
-    "mission.copy": "Titanus Group берёт проект с любой точки развития: от идеи и первых продаж до работающего ресторана или малого бизнеса, которому нужны порядок, масштаб и понятный рост. Мы находим слабые места, усиливаем маркетинг, выстраиваем операционные процессы и внедряем технологические решения под задачи владельца. Наша задача - сократить путь, который обычно стоит владельцу месяцев ошибок, лишних расходов и постоянного ручного контроля.",
-    "time.eyebrow": "Time is the premium asset",
-    "time.title": "Мы продаём не советы. Мы возвращаем владельцу время.",
-    "time.card1.title": "Меньше проб и ошибок",
-    "time.card1.copy": "Помогаем не тратить месяцы на случайных подрядчиков, хаотичные решения и действия без цифр.",
-    "time.card2.title": "Быстрее ясные решения",
-    "time.card2.copy": "Показываем, где бизнес теряет деньги, клиентов, скорость и управляемость.",
-    "time.card3.title": "Система вместо ручного контроля",
-    "time.card3.copy": "Настраиваем процессы, инструменты и ритм управления, чтобы бизнес не держался только на владельце.",
-    "audit.eyebrow": "First product",
-    "audit.copy": "Начинаем не с догадок, а с диагностики. За короткий цикл разбираем бизнес как систему: продажи, маркетинг, сайт, соцсети, кухню или операционные процессы, персонал, поставщиков, цифры и технологии.",
-    "audit.tag": "7-14 дней",
-    "audit.resultTitle": "На выходе владелец получает",
-    "audit.item1": "карту текущей точки А;",
-    "audit.item2": "главные потери времени и денег;",
-    "audit.item3": "точки быстрого роста;",
-    "audit.item4": "план действий на 30 / 60 / 90 дней;",
-    "audit.item5": "понимание, что делать самому, что делегировать и что автоматизировать.",
-    "audit.cta": "Запросить аудит",
-    "services.eyebrow": "Full coverage",
-    "services.title": "Полный охват услуг для ресторанов и малого бизнеса",
-    "services.card1.title": "Аналитика и аудит",
-    "services.card1.copy": "Проверяем финансы, продажи, меню, процессы, маркетинг, команду и точки потерь. Даём ясную картину: что мешает зарабатывать и где рост быстрее всего.",
-    "services.card2.title": "SEO, сайты и соцсети",
-    "services.card2.copy": "Создаём сайт, усиливаем видимость в поиске, упаковываем бренд, ведём социальные сети и строим поток клиентов через цифровые каналы.",
-    "services.card3.title": "Ресторанные процессы",
-    "services.card3.copy": "Налаживаем кухню, персонал, поставщиков, стандарты, закупки, учёт, скорость сервиса и ежедневную операционную дисциплину.",
-    "services.card4.title": "Технологии под клиента",
-    "services.card4.copy": "Разрабатываем CRM, приложения, системы учёта, инструменты для бухгалтерии, складов, заказов, персонала и управленческой отчётности.",
-    "model.eyebrow": "Consulting model",
-    "model.title": "Правильный консалтинг - это маршрут от точки А к точке Б.",
-    "model.card1.title": "Где бизнес сейчас",
-    "model.card1.copy": "Фиксируем факты: цифры, процессы, клиентский путь, команду, маркетинг, владельческую нагрузку и реальные ограничения.",
-    "model.card2.title": "Куда бизнес должен прийти",
-    "model.card2.copy": "Определяем понятную цель: рост выручки, прибыльность, порядок, автоматизация, сильная команда или масштабирование.",
-    "model.card3.title": "Как туда дойти",
-    "model.card3.copy": "Строим маршрут внедрения. Titanus Group приносит метод, опыт и исполнение; владелец участвует в ключевых решениях.",
-    "process.eyebrow": "How we work",
-    "process.title": "От диагностики до внедрения",
-    "process.step1": "<strong>Смотрим на бизнес целиком.</strong> Продажи, продукт, команда, кухня, маркетинг, финансы и технологии.",
-    "process.step2": "<strong>Выделяем приоритеты.</strong> Что даёт быстрый эффект, что требует системной перестройки, что мешает масштабу.",
-    "process.step3": "<strong>Внедряем руками.</strong> Не ограничиваемся советами: помогаем настроить процессы, инструменты и контроль.",
-    "process.step4": "<strong>Оставляем систему.</strong> Клиент получает не разовую услугу, а понятную модель управления и роста.",
-    "tech.eyebrow": "Technology",
-    "tech.title": "Любой каприз клиента превращаем в рабочий инструмент",
-    "tech.copy1": "Если стандартных решений недостаточно, Titanus Group создаёт индивидуальные цифровые продукты: от сайта и CRM до приложения для учёта продаж, склада, бухгалтерии, поставщиков, сотрудников и ежедневной отчётности.",
-    "tech.copy2": "Главный принцип простой: технология должна экономить время владельца, давать прозрачные цифры и помогать команде работать точнее.",
-    "tech.metric1": "обзор бизнеса",
-    "tech.metric2": "от стратегии до внедрения",
-    "tech.metric3": "решения под процесс клиента",
-    "contact.eyebrow": "Start",
-    "contact.title": "Готовы усилить ресторан или малый бизнес?",
-    "contact.copy": "Напишите Titanus Group, если нужно найти точки роста, навести порядок в процессах, усилить продвижение или создать технологическое решение под вашу задачу."
-  },
   en: {
     "nav.audit": "Audit",
     "nav.services": "Services",
@@ -464,7 +398,6 @@ const translations = {
 };
 
 const languageNames = {
-  ru: "Titanus Group | Консалтинг для ресторанов и малого бизнеса",
   en: "Titanus Group | Consulting for Restaurants & Small Business",
   pl: "Titanus Group | Consulting dla restauracji i małych firm",
   es: "Titanus Group | Consultoría para restaurantes y pequeñas empresas",
@@ -474,10 +407,10 @@ const languageNames = {
 };
 
 function setLanguage(lang) {
-  const dictionary = translations[lang] || translations.ru;
+  const dictionary = translations[lang] || translations.es;
 
   document.documentElement.lang = lang;
-  document.title = languageNames[lang] || languageNames.ru;
+  document.title = languageNames[lang] || languageNames.es;
 
   document.querySelectorAll("[data-i18n]").forEach((element) => {
     const key = element.dataset.i18n;
@@ -506,6 +439,11 @@ document.querySelectorAll("[data-lang]").forEach((button) => {
 
 const savedLanguage = localStorage.getItem("titanus-language");
 const browserLanguage = navigator.language.slice(0, 2).toLowerCase();
-const initialLanguage = savedLanguage || (translations[browserLanguage] ? browserLanguage : "ru");
+const initialLanguage =
+  savedLanguage && translations[savedLanguage]
+    ? savedLanguage
+    : translations[browserLanguage]
+      ? browserLanguage
+      : "es";
 
 setLanguage(initialLanguage);
