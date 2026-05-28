@@ -6,6 +6,10 @@ Titanus Group is a strategic consulting and implementation company for restauran
 
 We do not sell isolated services. We sell judgment, experience, operational clarity, technology, trusted relationships, and the ability to turn complex business problems into working systems.
 
+Most importantly, we save the owner's most valuable resource: time.
+
+A business owner can lose money and earn it again, but lost time never returns. Titanus Group reduces the time spent on wrong decisions, chaotic processes, unreliable contractors, weak systems, and repeated mistakes.
+
 Our work starts with one question:
 
 > What must change so this business becomes stronger, more profitable, more organized, and ready to grow?
@@ -14,7 +18,7 @@ Our work starts with one question:
 
 Titanus Group helps businesses become stronger from the inside and more visible from the outside.
 
-We combine strategy, analytics, audit, digital growth, operational discipline, technology, and business relationships to help owners make better decisions, fix weak points, and build systems that can scale.
+We combine strategy, analytics, audit, digital growth, operational discipline, technology, and business relationships to help owners save time, make better decisions, fix weak points, and build systems that can scale.
 
 Our mission is to become the partner a business owner calls when they need clarity, growth, order, and execution from beginning to end.
 
@@ -43,6 +47,7 @@ The client should feel that Titanus Group sees the whole business, not just one 
 We sell:
 
 - Clarity when the owner is overloaded
+- Time saved from confusion, trial and error, and weak execution
 - Strategy when the business lacks direction
 - Order when daily operations are chaotic
 - Growth when marketing is weak
@@ -53,7 +58,7 @@ We sell:
 
 The real product is not a website, audit, SEO, or application.
 
-The real product is a stronger business.
+The real product is a stronger business and a business owner who gets time back for decisions, family, health, creativity, and expansion.
 
 ## 5. Consulting Principles
 
@@ -127,6 +132,21 @@ The goal is to leave behind systems:
 - Better decision-making rhythm
 
 Strong consulting makes the business more independent and more valuable.
+
+### 5.6 Protect the Owner's Time
+
+The owner's time must be treated as a premium asset.
+
+Titanus Group should remove unnecessary meetings, unclear reporting, duplicated work, manual chaos, unreliable vendors, slow decisions, and tasks that can be delegated or automated.
+
+Every project should ask:
+
+- What should the owner stop doing?
+- What should be delegated?
+- What should be automated?
+- What should be measured automatically?
+- What decisions can be made faster with better data?
+- What repeated problems can be removed permanently?
 
 ## 6. Titanus Method
 
@@ -274,7 +294,7 @@ What gets measured and reviewed has a chance to improve.
 
 Titanus Group helps the client see the truth, choose the right priorities, and execute the work needed to build a stronger business.
 
-We bring strategy, operations, technology, and relationships into one practical system.
+We bring strategy, operations, technology, and relationships into one practical system that saves the owner's time and reduces costly mistakes.
 
 We do not promise magic.
 
@@ -284,7 +304,7 @@ We promise disciplined thinking, honest diagnosis, strong execution, and a busin
 
 Titanus Group is a strategic consulting and implementation company helping restaurants, small businesses, and entrepreneurs grow through audit, analytics, operations, digital promotion, technology, and business systems.
 
-We help owners find weak points, build stronger processes, improve marketing, use technology, and turn ideas into scalable business structures.
+We help owners save time, find weak points, build stronger processes, improve marketing, use technology, and turn ideas into scalable business structures.
 
 ## 11. Recommended Reading List
 
@@ -337,4 +357,3 @@ We help owners find weak points, build stronger processes, improve marketing, us
 - Sprint — Jake Knapp
 - Rework — Jason Fried and David Heinemeier Hansson
 - The Mom Test — Rob Fitzpatrick
-
