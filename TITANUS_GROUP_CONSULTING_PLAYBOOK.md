@@ -2,9 +2,9 @@
 
 ## 1. Core Idea
 
-Titanus Group is a strategic consulting and implementation company for restaurants, small businesses, and growth-focused entrepreneurs.
+Titanus Group is a business infrastructure company for restaurants, hospitality projects, small businesses, and growth-focused entrepreneurs.
 
-We do not sell isolated services. We sell judgment, experience, operational clarity, technology, trusted relationships, and the ability to turn complex business problems into working systems.
+We do not sell isolated services. We turn chaotic businesses into controlled systems. We sell judgment, experience, operational clarity, technology, trusted relationships, and the ability to build structure that saves the owner's time.
 
 Most importantly, we save the owner's most valuable resource: time.
 
@@ -16,17 +16,17 @@ Our work starts with one question:
 
 ## 2. Mission
 
-Titanus Group helps businesses become stronger from the inside and more visible from the outside.
+Titanus Group helps businesses reduce chaos, save time, and build operational systems that scale.
 
-We combine strategy, analytics, audit, digital growth, operational discipline, technology, and business relationships to help owners save time, make better decisions, fix weak points, and build systems that can scale.
+We identify where money, time, and energy are being lost, then create practical solutions that improve structure, operations, profitability, and long-term stability.
 
-Our mission is to become the partner a business owner calls when they need clarity, growth, order, and execution from beginning to end.
+Our goal is simple: help businesses operate smarter, grow faster, and depend less on constant manual control.
 
 ## 3. Positioning
 
-Titanus Group is not only a marketing agency, not only a technology studio, and not only a restaurant advisor.
+Titanus Group is not an agency that simply makes websites, SEO, or social media.
 
-Titanus Group is a business growth partner.
+Titanus Group is a business infrastructure and optimization partner.
 
 We help with:
 
@@ -40,7 +40,11 @@ We help with:
 - Connections, partnerships, and market access
 - End-to-end execution
 
-The client should feel that Titanus Group sees the whole business, not just one small part of it.
+The client should feel one thing immediately:
+
+> My business should not depend only on me.
+
+Titanus Group sees the whole business, not just one small part of it.
 
 ## 4. What We Sell
 
@@ -58,7 +62,7 @@ We sell:
 
 The real product is not a website, audit, SEO, or application.
 
-The real product is a stronger business and a business owner who gets time back for decisions, family, health, creativity, and expansion.
+The real product is a business that depends less on constant manual control and a business owner who gets time back for decisions, family, health, creativity, and expansion.
 
 ## 5. Consulting Principles
 
@@ -413,9 +417,9 @@ Use paid diagnostics, upfront payment, staged payments, or clearly defined retai
 
 ## 11. Short Public Description
 
-Titanus Group is a strategic consulting and implementation company helping restaurants, small businesses, and entrepreneurs grow through audit, analytics, operations, digital promotion, technology, and business systems.
+Titanus Group is a business infrastructure and optimization company helping restaurants, hospitality projects, small businesses, and entrepreneurs reduce chaos, save time, and build operational systems that scale.
 
-We help owners save time, find weak points, build stronger processes, improve marketing, use technology, and turn ideas into scalable business structures.
+We identify where money, time, and energy are being lost, then create practical solutions that improve structure, operations, profitability, and long-term stability.
 
 ## 12. Recommended Reading List
 
